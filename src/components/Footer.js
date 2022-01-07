@@ -30,7 +30,7 @@ export default () => (
     <br />
         <span>
           All rights reserved  © Copyright {new Date().getFullYear()} {' '}
-          <a href=""> NUS Indian Dance</a>.
+          NUS Indian Dance
         </span>
       </div>
     </footer>
