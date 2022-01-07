@@ -6,13 +6,16 @@ import YouTubeIcon from '@mui/icons-material/YouTube';
 import Link from '@material-ui/core/Link';
 
 export default () => (
-  <div>
-    <h2 className="taCenter">
+  <div className="container taCenter">
+  <footer className="footer">
+      <div>
+    {/* <h2 className="taCenter"> */}
     For general enquiries:{' '}
       <a href="indiandance.nus@gmail.com">indiandance.nus@gmail.com</a>
 
-    </h2>
+    {/* </h2> */}
     <div className="taCenter">
+    <br />
 
    <Link href="https://www.facebook.com/NUSIndianDance/">
     <FacebookIcon fontSize="large"></FacebookIcon>
@@ -25,8 +28,6 @@ export default () => (
       </Link>
 </div>
     <br />
-    <footer className="footer">
-      <div className="container taCenter">
         <span>
           All rights reserved  © Copyright {new Date().getFullYear()} {' '}
           <a href=""> NUS Indian Dance</a>.

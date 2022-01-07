@@ -92,10 +92,10 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Blog
+                Gallery
                 <div className="Nav--GroupLinks">
-                  <NavLink to="/blog/" className="Nav--GroupLink">
-                    All Posts
+                  <NavLink to="/gallery/" className="Nav--GroupLink">
+                    All Categories
                   </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink
