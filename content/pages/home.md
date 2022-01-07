@@ -2,17 +2,16 @@
 template: HomePage
 slug: ''
 title: NUS Indian Dance
-featuredImage: 'https://imgur.com/WKJE6wh'
+featuredImage: 'https://i.imgur.com/WKJE6wh.jpg'
 subtitle: 'A MEMBER OF NUS CENTRE FOR THE ARTS'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Established in 1977 at the National University of Singapore, NUS Indian Dance is a student-led Bharatanatyam troupe with over 40 years of illustrious history and is under the management of NUS Centre For the Arts.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
-
+<!---
 # Features
 
 - **[Gatsby](https://gatsbyjs.org)** static site generator
@@ -28,3 +27,6 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+--->
+
+Follow us on instagram! @nusindiandance
