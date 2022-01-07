@@ -29,4 +29,4 @@ View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify C
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
 --->
 
-Follow us on instagram! @nusindiandance
+<!-- Follow us on instagram! @nusindiandance -->
