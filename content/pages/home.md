@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: NUS Indian Dance
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://imgur.com/WKJE6wh'
 subtitle: 'A MEMBER OF NUS CENTRE FOR THE ARTS'
 meta:
   description: This is a meta description.
