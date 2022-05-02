@@ -1,10 +1,10 @@
 ---
 template: BlogIndex
 slug: Gallery
-title: Gallery Page
+title: Gallery
 featuredImage: 'https://i.imgur.com/WKJE6wh.jpg'
-subtitle: This is the Gallery page subtitle.
+subtitle: A collection of photos from our past productions and events
 meta:
-  description: This is a meta description.
-  title: Gallery Page
+  description: Gallery
+  title: Gallery
 ---

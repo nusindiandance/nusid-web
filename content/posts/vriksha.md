@@ -13,11 +13,20 @@ categories:
   - category: Productions
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: NAF 2012
   noindex: false
-  title: test meta title
+  title: NAF 2012
 ---
 
-![Image](https://i.imgur.com/yBnPqAO.jpg)
+<iframe width="684" height="385" src="https://www.youtube.com/embed/yf8Jd01uioM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Vriksha was a dance retelling of Kuo Pao Kun's iconic play The Silly Little Girl and Funny Old Tree in the language of Bharatanatyam, directed by Mrs Santha Bhaskar. The play, on modernisation versus traditions, transcended cultural differences to create an Indian Dance that is truly Singaporean
+Vriksha was a dance retelling of Kuo Pao Kun's iconic play The Silly Little Girl and Funny Old Tree in the language of Bharatanatyam, directed by Mrs Santha Bhaskar. The play, on modernisation versus traditions, transcended cultural differences to create an Indian Dance that is truly Singaporean.
+
+![Image](https://i.imgur.com/yBnPqAO.jpg)
+![Image](https://i.imgur.com/jr3n2RV.jpg)
+![Image](https://i.imgur.com/wNud5vV.jpg)
+![Image](https://i.imgur.com/3o6amui.jpg)
+![Image](https://i.imgur.com/6gp1ZGG.jpg)
+![Image](https://i.imgur.com/jndFElL.jpg)
+![Image](https://i.imgur.com/rUKkpsu.jpg)
+![Image](https://i.imgur.com/QeGvzXp.jpg)

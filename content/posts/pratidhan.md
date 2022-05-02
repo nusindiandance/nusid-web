@@ -13,12 +13,11 @@ categories:
   - category: Productions
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: NAF 2015
   noindex: false
-  title: test meta title
+  title: NAF 2015
 ---
-
-![Image](https://i.imgur.com/gVZ4Ls8.jpg)
+<iframe width="684" height="385" src="https://www.youtube.com/embed/sQ1wM2v-I1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pratidhan, an expression of eternal gratefulness, a fixation on the will to give back. 
 
@@ -27,3 +26,15 @@ A time for the rendering of gratitude by dancers to the various elements that ha
 NUS Indian Dance extolled these elements in all their splendour. For the first time, resonating with the prestige of our performance, was a dedication to the intangible energy forms, reverberating through time and space on the tangible Earth-our timeless stage. 
 
 NUS Indian Dance presented a plethora of pieces to eulogise these which we often take for granted.
+
+![Image](https://i.imgur.com/gVZ4Ls8.jpg)
+![Image](https://i.imgur.com/OcQ28et.jpg)
+![Image](https://i.imgur.com/ui4cinx.jpg)
+![Image](https://i.imgur.com/WdN8ExY.jpg)
+![Image](https://i.imgur.com/RyDHu1Q.jpg)
+![Image](https://i.imgur.com/ZEME5vv.jpg)
+![Image](https://i.imgur.com/rLqESKJ.jpg)
+![Image](https://i.imgur.com/x3MD6vn.jpg)
+![Image](https://i.imgur.com/n9xNzkp.jpg)
+![Image](https://i.imgur.com/m2YOfO1.jpg)
+![Image](https://i.imgur.com/YdonIuO.jpg)

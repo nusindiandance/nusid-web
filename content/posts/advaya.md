@@ -13,12 +13,25 @@ categories:
   - category: Productions
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: NAF 2016
   noindex: false
-  title: test meta title
+  title: NAF 2016
 ---
 
-![Image](https://i.imgur.com/M4IdPlS.jpg)
+<iframe width="684" height="385" src="https://www.youtube.com/embed/t4xzstOS8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Dance is poetry in motion; Inspired by well-known local and international poets like Alvin Pang, Edwin Thumboo and Jayadeva (Sanskrit), NUS Indian Dance sought to exemplify poems that embodies the hopes, struggles and aspirations at different life chapters through classical representations of Bharatanatyam, Kathak and Mohiniattam.
 
+![Image](https://i.imgur.com/M4IdPlS.jpg)
+![Image](https://i.imgur.com/AUci0zv.jpg)
+![Image](https://i.imgur.com/vS9vfOP.jpg)
+![Image](https://i.imgur.com/e2a7uqi.jpg)
+![Image](https://i.imgur.com/r5PJwEX.jpg)
+![Image](https://i.imgur.com/918jC9r.jpg)
+![Image](https://i.imgur.com/Ppcqs1p.jpg)
+![Image](https://i.imgur.com/qLQvThz.jpg)
+![Image](https://i.imgur.com/6NtStUo.jpg)
+![Image](https://i.imgur.com/FMt50KM.jpg)
+![Image](https://i.imgur.com/oNHrNy6.jpg)
+
+Photography credits: TET Photography
